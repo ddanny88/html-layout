@@ -1,0 +1,84 @@
+
+*{
+    box-sizing: border-box;
+    margin: 10px;
+}
+.shape-holder{
+    width: 100%;
+    height: 200px;
+    border: 5px solid black;
+    margin: 10px;
+}
+#purple-rec{
+    height: 120px;
+    width: 50px;
+    background: blueviolet;
+    margin-right: 40px;
+}
+
+#green-rec{
+    height: 175px;
+    width: 300px;
+    background: green;
+    margin-right: 40px;
+}
+#blue-circle{
+    height: 175px;
+    width: 175px;
+    background: skyblue;
+    border-radius: 50%;
+} 
+#purple-rec, #green-rec, #blue-circle{
+    display: inline-block;
+}
+
+
+
+
+
+
+
+.dashed-square{
+    margin-top: 35px;
+    width: 100%;
+    height: 225px;
+    border: 5px dotted black;
+
+}
+#solid-rec{
+    width: 75%;
+    height: 75%;
+    background: lemonchiffon; 
+    box-shadow: 10px 5px 5px black;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+.message{
+    letter-spacing: 10px;
+    font-weight: bold;
+    height:300px;
+    margin: 10px auto;
+    width: 400px;
+    border: 1px solid gainsboro;
+    text-align: center;
+    color: navy;
+    box-shadow: 5px 5px 2px 1px rgba(0, 0, 25, .2);
+    font-size: 35px;
+    padding-top: 80px;
+}
+
+
+
+
+
+
+
+
+
